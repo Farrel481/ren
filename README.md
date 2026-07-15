@@ -21,4 +21,18 @@ I work on this project in intention of making my workdesk more alive.
 
 'Course, it'll help me on my Future too, as a portfolio, as a college project, but my main goal is written.
 
+Core Principles :
+1. Presence over features
+2. Trust over convenience
+3. Personality over gimmicks
+4. Relationship grow slowly and relative
+5. Adapt, don't imitate
+6. One brain, many bodies
+
+## Building Steps 
+Front-End > Ren-Core 
+CORE :
+| Voice | Memory | Actions |
+| Avatar | Database | Windows |
+
 
