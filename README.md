@@ -30,11 +30,14 @@ Core Principles :
 6. One brain, many bodies
 
 ## Building Steps 
-Front-End > Ren-Core 
+Front-End > Ren-Core <br>
 CORE :
 | Interaction | Process | Response |
 |:---:|:---:|:---:|
 | Voice | Memory | Actions |
 | Avatar | Database | Windows |
+
+Framework's gonna be PySide6(Qt), FastAPI for server but not necessary yet. SQLite and ChromaDB
+and a lot of stuff else, let us get to work now!
  
 
