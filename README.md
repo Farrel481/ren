@@ -32,7 +32,9 @@ Core Principles :
 ## Building Steps 
 Front-End > Ren-Core 
 CORE :
+| Interaction | Process | Response |
+|:---:|:---:|:---:|
 | Voice | Memory | Actions |
 | Avatar | Database | Windows |
-
+ 
 
