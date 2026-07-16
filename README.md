@@ -37,6 +37,22 @@ CORE :
 | Voice | Memory | Actions |
 | Avatar | Database | Windows |
 
+
+REN Modules
+
+├── Conversation Engine
+├── Personality Engine
+├── Relationship Engine
+├── Identity Growth Engine
+├── Memory Engine
+├── Life Journal
+├── Emotion Engine
+├── Decision Engine
+├── Permission Engine
+├── Presence Engine
+└── Skills Engine
+
+
 Framework's gonna be PySide6(Qt), FastAPI for server but not necessary yet. SQLite and ChromaDB
 and a lot of stuff else, let us get to work now!
  
