@@ -1,5 +1,0 @@
-class Marking :
-  """
-  Mark directories
-
-  """
