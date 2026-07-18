@@ -4,7 +4,7 @@
 ## What is Ren?
 
 Hello, my name is Farrel and this is my personal project called REN. So, this project is an Artificial Intelligence
-creation which have some differ with usual AI like some we know called ChatGPT, Claude, or any Chat based AI. Ren will help us on daily jobs DIRECTLY, yes, direct, and that is not even the good part.
+creation which have some differ with usual AI like some we know called ChatGPT, Claude, or any Chat based AI. 
 
 REN is a companion, designed to feel present. It helps with daily task, learns and grows alongside it's user.
 
